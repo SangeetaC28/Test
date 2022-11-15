@@ -1,0 +1,13 @@
+com/ginies/gadfix/onboardscreen/OnboardingItem.java
+ com.ginies.gadfix.onboardscreen.OnboardingItem
+com/ginies/gadfix/onboardscreen/HomeActivity.java
+ com.ginies.gadfix.onboardscreen.HomeActivity
+com/ginies/gadfix/onboardscreen/MainActivity.java
+ com.ginies.gadfix.onboardscreen.MainActivity
+ com.ginies.gadfix.onboardscreen.MainActivity$1
+ com.ginies.gadfix.onboardscreen.MainActivity$2
+com/ginies/gadfix/onboardscreen/OnboardAdapter.java
+ com.ginies.gadfix.onboardscreen.OnboardAdapter
+ com.ginies.gadfix.onboardscreen.OnboardAdapter$OnboardViewHolder
+com/ginies/gadfix/onboardscreen/BuildConfig.java
+ com.ginies.gadfix.onboardscreen.BuildConfig
